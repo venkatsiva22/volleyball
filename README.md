@@ -1,0 +1,1 @@
+A simple volleyball game built using Python's Tkinter library. This game features two paddles on either side of a central net, and the objective is to keep the ball in play while trying to score points. Players control the paddles, and the game keeps track of scores. The game ends when one player reaches 10 points.
